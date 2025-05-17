@@ -28,7 +28,7 @@ Este notebook é um **protótipo funcional** que utiliza o **Google Gemini** jun
 
 ## ▶️ Execute Agora no Google Colab
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gRhH3uzeI38pkxvFJrwOLw_m-OoC9r7s?usp=sharing)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_SEU_LINK_DO_COLAB)
 
 ---
 
@@ -92,8 +92,9 @@ Vamos construir juntos uma nova forma de ensinar! 💙
 
 ## 📬 Contato
 
-- 📧 marcospirescoelho.com  
-
+- 📧 SeuEmail@email.com  
+- 🌐 [SeuLinkedin](https://linkedin.com/in/seuperfil)  
+- 📷 Instagram: [@seuperfil](https://instagram.com/seuperfil)
 
 ---
 
