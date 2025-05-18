@@ -32,15 +32,6 @@ Este notebook é um **protótipo funcional** que utiliza o **Google Gemini** jun
 
 ---
 
-## 🧪 Demonstração
-
-<div align="center">
-  <img src="https://github.com/seuusuario/quiz-educacional/blob/main/assets/demo_quiz.gif" width="600px"/>
-  <p><i>Exemplo de perguntas geradas dinamicamente com base na disciplina e conteúdo escolhido.</i></p>
-</div>
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - 🧠 Google Gemini (API com agentes inteligentes)
